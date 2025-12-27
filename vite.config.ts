@@ -5,7 +5,7 @@ import { componentTagger } from "lovable-tagger";
 
 // https://vitejs.dev/config/
 export default defineConfig(({ mode }) => ({
-  base: '/cv-visionary-code/',
+  base: '/khosro_cv/',  // <--- اینجا درستش کن: khosro_cv نه cv-visionary-code
   server: {
     host: "::",
     port: 8080,
